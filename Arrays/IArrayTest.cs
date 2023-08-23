@@ -1,0 +1,8 @@
+
+
+interface IArrayTest{
+
+    void RunTest(){
+        
+    }
+}

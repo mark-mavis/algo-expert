@@ -1,0 +1,15 @@
+C:\Users\markm\Desktop\algo_expert\bin\Debug\net7.0\algo_expert.exe
+C:\Users\markm\Desktop\algo_expert\bin\Debug\net7.0\algo_expert.deps.json
+C:\Users\markm\Desktop\algo_expert\bin\Debug\net7.0\algo_expert.runtimeconfig.json
+C:\Users\markm\Desktop\algo_expert\bin\Debug\net7.0\algo_expert.dll
+C:\Users\markm\Desktop\algo_expert\bin\Debug\net7.0\algo_expert.pdb
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.csproj.AssemblyReference.cache
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.AssemblyInfoInputs.cache
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.AssemblyInfo.cs
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.csproj.CoreCompileInputs.cache
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.dll
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\refint\algo_expert.dll
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.pdb
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\algo_expert.genruntimeconfig.cache
+C:\Users\markm\Desktop\algo_expert\obj\Debug\net7.0\ref\algo_expert.dll
