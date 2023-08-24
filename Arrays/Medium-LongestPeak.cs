@@ -1,5 +1,7 @@
 
 
+using System.Security;
+
 class LongestPeak{
 
 
@@ -16,6 +18,31 @@ class LongestPeak{
             if(size > peakSize) peakSize = size;
         }
         return peakSize;
+    }
+
+    public static int Solution2(int[] array){
+        int maxPeak = 0;
+        for(int i = 0; i < array.Length; i++){
+            int leftIt = i;
+            int rightIt = i;
+            bool leftAccent = true;
+            bool rightAccent = true;
+            int count = 0;
+            while((leftIt > 0 && rightIt < array.Length-1) && (leftAccent && rightAccent)){
+                if(array[leftIt-1] >= array[leftIt]){
+                    leftAccent = false;
+                }
+                if(array[rightIt] <= array[rightIt+1]){
+                    rightAccent = false;
+                }
+                if(leftAccent && rightAccent) count += 2;
+                if(maxPeak < count) maxPeak = count;
+                leftIt--;
+                rightIt++;
+            }
+        }
+        return maxPeak;
+
     }
 
     public static int PeakCount(int[] arr, int currIdx){
