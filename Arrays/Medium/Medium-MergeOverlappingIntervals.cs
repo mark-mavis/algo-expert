@@ -14,14 +14,7 @@ class MergeOverlappingIntervals{
                 Console.WriteLine(intervals[i,j]);
             }
         }
-
         
-        Array.Sort(intervals, , intervals.Length);
-
-        SortedList<int, int> kvp = new SortedList<int, int>();
-        for(int i = 0; i < intervals.Length; i++){
-            kvp.Add(intervals[i,0], )
-        }
 
         return new int[0,0];
     }
