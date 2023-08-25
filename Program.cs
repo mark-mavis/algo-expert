@@ -19,7 +19,10 @@ class Program
         //MoveElementToEnd.Controller();
         //MonoTonicArray.Controller();
         //SpiralTraverse.Controller();
-        LongestPeak.Controller();
+        //LongestPeak.Controller();
+        //ArrayOfProducts.Controller();
+        //FirstDuplicateValue.Controller();
+        MergeOverlappingIntervals.Controller();
         Console.ReadLine();
 
     }
